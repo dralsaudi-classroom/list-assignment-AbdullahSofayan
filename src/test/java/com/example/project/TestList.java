@@ -19,6 +19,7 @@ public class TestList {
       list.insert('D');
       list.insert('E');
       assertEquals('B', list.mostFrequentElement());
+      
    }
    @Test
    public void testMostFrequentElement2()
